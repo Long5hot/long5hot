@@ -22,6 +22,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnparmar&layout=compact&hide=c%23,jupyter%20notebook&theme=nightowl)](https://github.com/krushnparmar)
 
-Some Stats:  
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=parmarkrishna&theme=nightowl&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=krushnparmar&theme=nightowl&show_icons=true)
 
