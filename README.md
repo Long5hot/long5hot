@@ -1,5 +1,5 @@
 <h1 align='center'> Hi there!! , Kishan Parmar Here! 🙋‍♂️ </h1>
-<p align='center'> An enthusiastic learner 🎇 Currently learning C,C++,Python. Interested in Compilers, Operating System. Likes to make repositories for little little codes which may help😃.</p>
+<p align='center'> An enthusiastic learner 🎇 Currently learning C,C++,Python. Interested in Compilers, Operating System.</p>
 
 
 </br>
